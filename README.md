@@ -1,1 +1,1 @@
-Simple Charactor Counter App.
+Simple Character Counter App.
